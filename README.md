@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andres Lopez</h1>
 <h3 align="center">A very passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **REACT, its a little bit denser.**
+- 🌱 I’m currently learning **ANGULAR, its a little bit denser.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
